@@ -33,6 +33,14 @@ a:visited{
     color: white;
 }
 
+.twitter-link:hover{
+    color:rgb(0, 94, 255)
+}
+
+.youtube-link:hover{
+    color:rgb(255, 0, 0)
+}
+
 video{
     position: fixed;
     top: 0;
